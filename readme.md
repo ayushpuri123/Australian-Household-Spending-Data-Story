@@ -118,8 +118,3 @@ Australian-Household-Spending-Data-Story/
 │   └── charts.py
 │
 └── README.md
-
-## Data Source
-
-Australian Bureau of Statistics  
-[Monthly Household Spending Indicator, July 2026](https://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/jul-2026)
