@@ -112,9 +112,14 @@ Australian-Household-Spending-Data-Story/
 ├── outputs/
 │   └── charts/
 │
-├── SRC/
+├── src/
 │   ├── inspect_data.py
 │   ├── analysis.py
 │   └── charts.py
 │
 └── README.md
+
+## Data Source
+
+Australian Bureau of Statistics  
+[Monthly Household Spending Indicator, July 2026](https://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/jul-2026)
