@@ -100,6 +100,11 @@ The results should not be interpreted as showing an equivalent increase in the p
 - Excel
 - Git/GitHub
 
+## Data Source
+
+Australian Bureau of Statistics  
+[Monthly Household Spending Indicator, July 2026](https://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/jul-2026)
+
 ## Project Structure
 
 ```text
@@ -118,8 +123,3 @@ Australian-Household-Spending-Data-Story/
 │   └── charts.py
 │
 └── README.md
-
-## Data Source
-
-Australian Bureau of Statistics  
-[Monthly Household Spending Indicator, July 2026](https://www.abs.gov.au/statistics/economy/finance/monthly-household-spending-indicator/jul-2026)
