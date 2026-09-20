@@ -112,7 +112,7 @@ Australian-Household-Spending-Data-Story/
 ├── outputs/
 │   └── charts/
 │
-├── SRC/
+├── src/
 │   ├── inspect_data.py
 │   ├── analysis.py
 │   └── charts.py
