@@ -35,7 +35,7 @@ def load_abs_file(file_path):
     # Actual monthly data starts on Excel row 11
     data = raw.iloc[10:].copy()
 
-    # First column contains Excel serial dates
+    # Convert the ABS monthly date column to datetime
     dates = pd.to_datetime(
         data.iloc[:, 0],
         errors="coerce"
